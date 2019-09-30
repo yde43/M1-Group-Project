@@ -12,3 +12,7 @@ to gain overview over the data.
 2. DataExploration. (Here we do exploration of the data, and see what correlations exsist in the data, among insights to what is relevant in the data)
 3. Unsupervised. (Here we try to use unsupervised learning methods on chosen data, and extrapolate things from it)
 4. Supervised (Based on some of the things learned in the previous notebook, we try to use supervised learning to predict certain parameters of the data. )
+
+link to stakeholder repport in case of problems. 
+https://docs.google.com/document/d/1q_M9fhC5JgPHIhvrIFBonoiV8oXR33EzvmizN0hjLj0/edit?usp=sharing
+
